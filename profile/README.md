@@ -4,6 +4,9 @@
 
 :newspaper: Visit our [website](https://www.mec.ed.tum.de/en/amx/home/) for current news and research!
 
+## Publications
+:page_facing_up: Here we publish code related to our publications. Check out the other projects in this **TUMAMX** group! 
+
 ## Contact
 :house: **Visit us:**
 TUM School of Engineering and Design
