@@ -11,7 +11,7 @@ Boltzmannstraße 15
 85748, Garching bei München
 
 Building (Hof) 1, 2nd floor
-Room: [2125](https://nav.tum.de/room/5501.02.127) 
+Room: [MW2126](https://nav.tum.de/room/5501.02.126) 
 
 **Linkedin** 
 [AMX @ LinkedIn](https://de.linkedin.com/company/tum-amx-agrimechatronics) 
